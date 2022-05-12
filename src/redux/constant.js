@@ -1,0 +1,1 @@
+export const baseUrl="http://185.4.74.230:3000/s";
